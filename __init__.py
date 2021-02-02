@@ -5,7 +5,7 @@ Created on Wed Sep  9 19:16:38 2020
 """
 
 from tkinter import *
-from api import *
+from splits import *
 
 
 """
